@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "ステップアップLOVE",
+  "base_artist": "DAOKO",
+  "createdAt": "2026-01-09T00:39:49.381936Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ステップアップLOVE",
+      "artist": "DAOKO feat. Yasuyuki Okamura",
+      "has_synced": false,
+      "path": "select/01_ステップアップLOVE_DAOKO_feat._Yasuyuki_Okamura.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ステップアップLOVE",
+      "artist": "Daoko/Yasuyuki Okamura",
+      "has_synced": true,
+      "path": "select/02_ステップアップLOVE_Daoko_Yasuyuki_Okamura.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ステップアップLOVE",
+      "artist": "Daoko/Yasuyuki Okamura",
+      "has_synced": false,
+      "path": "select/03_ステップアップLOVE_Daoko_Yasuyuki_Okamura.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ステップアップLOVE",
+      "artist": "DAOKO×岡村靖幸",
+      "has_synced": false,
+      "path": "select/pl_01_ステップアップLOVE_DAOKO×岡村靖幸.txt"
+    }
+  ]
+}
